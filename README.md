@@ -38,7 +38,7 @@ A passionate learner and self-driven developer focused on backend and full-stack
 ## 📫 Connect with me:
 - 💼 Currently building personal projects and strengthening backend logic.
 - 🛠 Always open to collaboration and project ideas.
-
+- 📧 Email: [riksingha420@gmail.com](mailto:riksingha420@gmail.com)
 
 
 

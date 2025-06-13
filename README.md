@@ -47,6 +47,6 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ## 🌐 Live Project Preview
 
-Check out my web project made with HTML, CSS, and JavaScript!
+Check out my HTML/CSS/JS project!
 
-👉 [🔗 View Live Project]([https://riksingha001.github.io/RikSingha001/README.md))
+👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/)

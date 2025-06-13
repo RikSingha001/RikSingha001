@@ -38,3 +38,15 @@ A passionate learner and self-driven developer focused on backend and full-stack
 ## 📫 Connect with me:
 - 💼 Currently building personal projects and strengthening backend logic.
 - 🛠 Always open to collaboration and project ideas.
+
+
+
+
+
+
+
+## 🌐 Live Project Preview
+
+Check out my web project made with HTML, CSS, and JavaScript!
+
+👉 [🔗 View Live Project](https://riksingha001.github.io/RikSingha001/)

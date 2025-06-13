@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Rik Singha!
 
-<!--
-**RikSingha001/RikSingha001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner and self-driven developer focused on backend and full-stack development using **Java**, **PHP**, and **JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills:
+
+- **Java**: Core concepts, OOP, Exception Handling, File I/O, Collections.
+- **JavaScript**: Vanilla JS, DOM manipulation, form handling.
+- **PHP**: Raw PHP scripting, form handling, MySQL integration.
+- **Web**: HTML5, CSS3 for static and responsive website design.
+- **Database**: MySQL, SQL queries, database connectivity in PHP.
+- **Version Control**: Git, GitHub basics and repository management.
+
+---
+
+## 🎯 My Goals:
+
+- 🔹 **Short-term**: Deepen understanding of Java OOP and build more backend projects using PHP + MySQL.
+- 🔹 **Medium-term**: Build custom mini full-stack projects using only core JavaScript and PHP (no frameworks).
+- 🔹 **Long-term**: Become confident in low-level backend development and contribute to open-source projects.
+
+---
+
+## 📈 GitHub Stats:
+
+![RikSingha001's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSingha001&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RikSingha001&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📫 Connect with me:
+- 💼 Currently building personal projects and strengthening backend logic.
+- 🛠 Always open to collaboration and project ideas.

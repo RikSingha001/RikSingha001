@@ -69,7 +69,7 @@ I’m a developer with experience in PHP, Java, JavaScript, and MySQL.
 ---
 
 
-👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/stone.pep.git)
+👉 [🔗 View Live Demo](https://riksingha001.github.io/stone.pep/)
 
 
 

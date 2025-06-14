@@ -61,7 +61,7 @@ Check out my HTML/CSS/JS project!
 ## 🚀 My Projects
 
 - 🔐 [Login System with PHP & MySQL](https://github.com/Riksingha001/README.md)
-- 📁 [File Upload System](https://github.com/riksingha/file_upload_app)
-- 📊 [Portfolio Website](https://github.com/riksingha/portfolio)
+- 📁 [File Upload System](https://github.com/riksingha001/README.md)
+- 📊 [Portfolio Website](https://github.com/riksingha001/README.md)
 
 

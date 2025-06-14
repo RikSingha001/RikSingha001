@@ -54,5 +54,30 @@ Check out my HTML/CSS/JS project!
 
 
 
+             # 👋 Hi, I’m Rik Singha
+
+Welcome to my GitHub profile!
+
+I’m a developer with experience in PHP, Java, JavaScript, and MySQL.
+
+---
+
+## 🌐 Live Website
+
+👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/)
+
+---
+
+## 🚀 My Projects
+
+- 🔐 [Login System with PHP & MySQL](https://github.com/Riksingha001/php_user_project)
+- 📁 [File Upload System](https://github.com/Riksingha001/file_upload_app)
+- 📊 [Portfolio Website](https://github.com/Riksingha001/portfolio)
+
+---
+
+
+
+
 
 

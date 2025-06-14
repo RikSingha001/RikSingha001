@@ -68,13 +68,7 @@ I’m a developer with experience in PHP, Java, JavaScript, and MySQL.
 
 ---
 
-## 🚀 My Projects
 
-- 🔐 [Login System with PHP & MySQL](https://github.com/Riksingha001/php_user_project)
-- 📁 [File Upload System](https://github.com/Riksingha001/file_upload_app)
-- 📊 [Portfolio Website](https://github.com/Riksingha001/portfolio)
-
----
 
 
 

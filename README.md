@@ -50,3 +50,18 @@ A passionate learner and self-driven developer focused on backend and full-stack
 Check out my HTML/CSS/JS project!
 
 👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/)
+
+
+
+
+
+
+# 👋 Hi, I’m Rik Singha
+
+## 🚀 My Projects
+
+- 🔐 [Login System with PHP & MySQL](https://github.com/Riksingha001/README.md)
+- 📁 [File Upload System](https://github.com/riksingha/file_upload_app)
+- 📊 [Portfolio Website](https://github.com/riksingha/portfolio)
+
+

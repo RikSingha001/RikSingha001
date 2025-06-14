@@ -56,11 +56,3 @@ Check out my HTML/CSS/JS project!
 
 
 
-## 🚀 My Projects
-
-- 🔐 [Login System with PHP & MySQL](https://github.com/Riksingha001/opent.php)
-- 📁 [File Upload System](https://github.com/Riksingha001/)
-- 📊 [Portfolio Website](https://github.com/Riksingha001/portfolio-website)
-
-
-

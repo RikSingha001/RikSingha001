@@ -54,19 +54,12 @@ Check out my HTML/CSS/JS project!
 
 
 
-             # 👋 Hi, I’m Rik Singha
+      
 
-Welcome to my GitHub profile!
 
-I’m a developer with experience in PHP, Java, JavaScript, and MySQL.
 
----
+#this game stone paper siz
 
-## 🌐 Live Website
-
-👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/)
-
----
 
 
 👉 [🔗 View Live Demo](https://riksingha001.github.io/stone.pep/)

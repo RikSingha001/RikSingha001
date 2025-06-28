@@ -4,6 +4,15 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
+
+
+A passionate learner and self-driven developer...
+
+---
+
+🔗 [Click here to view my live portfolio](https://riksingha001.github.io/rik-portfolio/)
+
+
 ## 🧠 Skills
 
 - **Java**: Core concepts, OOP, Exception Handling, File I/O, Collections.

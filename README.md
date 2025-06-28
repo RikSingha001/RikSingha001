@@ -4,10 +4,10 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
-## 🧠 Skills:
+## 🧠 Skills
 
 - **Java**: Core concepts, OOP, Exception Handling, File I/O, Collections.
-- **JavaScript**: Vanilla JS, DOM manipulation, form handling.
+- **JavaScript**: Vanilla JS, DOM manipulation, form validation, AJAX.
 - **PHP**: Raw PHP scripting, form handling, MySQL integration.
 - **Web**: HTML5, CSS3 for static and responsive website design.
 - **Database**: MySQL, SQL queries, database connectivity in PHP.
@@ -15,7 +15,7 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
-## 🎯 My Goals:
+## 🎯 My Goals
 
 - 🔹 **Short-term**: Deepen understanding of Java OOP and build more backend projects using PHP + MySQL.
 - 🔹 **Medium-term**: Build custom mini full-stack projects using only core JavaScript and PHP (no frameworks).
@@ -23,49 +23,38 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
-## 📈 GitHub Stats:
+## 🧪 Live Projects
+
+### 🎮 Rock-Paper-Scissors Game  
+A simple fun game using HTML, CSS, and JavaScript.  
+🔗 [Live Demo](https://riksingha001.github.io/stone.pep/)  
+📁 [GitHub Repo](https://github.com/RikSingha001/stone.pep)
+
+---
+
+### 🌐 Personal Portfolio Website  
+Built using HTML5, CSS3, and basic JavaScript to showcase projects.  
+🔗 [Live Demo](https://riksingha001.github.io/RikSingha001/)  
+📁 [GitHub Repo](https://github.com/RikSingha001/RikSingha001)
+
+---
+
+## 📈 GitHub Stats
 
 ![RikSingha001's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSingha001&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak:
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RikSingha001&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Connect with me:
-- 💼 Currently building personal projects and strengthening backend logic.
-- 🛠 Always open to collaboration and project ideas.
+## 📫 Connect with Me
+
 - 📧 Email: [riksingha420@gmail.com](mailto:riksingha420@gmail.com)
-
-
-
-
-
-
-## 🌐 Live Project Preview
-
-Check out my HTML/CSS/JS project!
-
-👉 [🔗 View Live Demo](https://riksingha001.github.io/RikSingha001/)
-
-
-
-
-      
-
-
-
-#this game stone paper siz
-
-
-
-👉 [🔗 View Live Demo](https://riksingha001.github.io/stone.pep/)
-
-
-
-
+- 💼 Currently building personal projects and strengthening backend logic.
+- 🤝 Open to collaboration and creative project ideas.
 
 

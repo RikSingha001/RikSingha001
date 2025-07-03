@@ -4,14 +4,9 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
-
-
-A passionate learner and self-driven developer...
-
----
-
 🔗 [Click here to view my live portfolio](https://riksingha001.github.io/rik-portfolio/)
 
+---
 
 ## 🧠 Skills
 
@@ -45,6 +40,13 @@ A simple fun game using HTML, CSS, and JavaScript.
 Built using HTML5, CSS3, and basic JavaScript to showcase projects.  
 🔗 [Live Demo](https://riksingha001.github.io/RikSingha001/)  
 📁 [GitHub Repo](https://github.com/RikSingha001/RikSingha001)
+
+---
+
+### 🔐 PHP Login System  
+User authentication system using raw PHP and MySQL  
+🔗 [Live Demo](https://rik-singha-userlogin.rf.gd)  
+📁 [GitHub Repo](https://github.com/RikSingha001/user_login)
 
 ---
 

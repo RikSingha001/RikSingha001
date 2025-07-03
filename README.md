@@ -41,10 +41,10 @@ A simple fun game using HTML, CSS, and JavaScript.
 
 ---
 
-### 🌐 Personal Portfolio Website  
+### 🎮 TIk-Tik Game   
 Built using HTML5, CSS3, and basic JavaScript to showcase projects.  
-🔗 [Live Demo](https://riksingha001.github.io/RikSingha001/)  
-📁 [GitHub Repo](https://github.com/RikSingha001/RikSingha001)
+🔗 [Live Demo](https://riksingha001.github.io/tik_tik/)  
+📁 [GitHub Repo](https://github.com/RikSingha001/tik_tik.git)
 
 ---
 

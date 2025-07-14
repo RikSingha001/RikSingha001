@@ -59,24 +59,8 @@ When I wasn't in the mood to do anything, I created this game.
 🔗 [Live Demo](https://riksingha001.github.io/snake-game/)  
 📁 [GitHub Repo](https://github.com/RikSingha001/snake-game.git)
 
----
-
-## 📈 GitHub Stats
-
-![RikSingha001's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSingha001&show_icons=true&theme=tokyonight)
-
 
 ---
-
-
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RikSingha001&theme=tokyonight)](https://git.io/streak-stats)
-
----
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -100,6 +84,7 @@ When I wasn't in the mood to do anything, I created this game.
 </p>
 
 ---
+
 
 
 ## 📫 Connect with Me

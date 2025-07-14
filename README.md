@@ -65,13 +65,42 @@ When I wasn't in the mood to do anything, I created this game.
 
 ![RikSingha001's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSingha001&show_icons=true&theme=tokyonight)
 
+
 ---
+
+
 
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RikSingha001&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RikSingha001&show_icons=true&theme=tokyonight" alt="Rik's GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RikSingha001&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RikSingha001&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 
 ## 📫 Connect with Me
 

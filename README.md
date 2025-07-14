@@ -4,7 +4,7 @@ A passionate learner and self-driven developer focused on backend and full-stack
 
 ---
 
-🔗 [Click here to view my live portfolio](https://riksingha001.github.io/rik-portfolio/)
+🔗**my portfolio** [Click here to view my live portfolio](https://riksingha001.github.io/rik-portfolio/)
 
 ---
 
@@ -52,6 +52,12 @@ Built using HTML5, CSS3, and basic JavaScript to showcase projects.
 User authentication system using raw PHP and MySQL  
 🔗 [Live Demo](https://rik-singha-userlogin.rf.gd)  
 📁 [GitHub Repo](https://github.com/RikSingha001/user_login)
+
+---
+🎮 snake-game 
+When I wasn't in the mood to do anything, I created this game.
+🔗 [Live Demo](https://github.com/RikSingha001/snake-game.git)  
+📁 [GitHub Repo](https://riksingha001.github.io/snake-game/)
 
 ---
 

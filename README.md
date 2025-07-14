@@ -71,9 +71,8 @@ When I wasn't in the mood to do anything, I created this game.
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RikSingha001&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RikSingha001&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 

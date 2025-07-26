@@ -58,7 +58,7 @@ User authentication system using raw PHP and MySQL
 A collection of small yet creative projects I built during my free time—just to experiment, learn, and have fun with code.
 These mini-games and interactive ideas reflect my curiosity and love for development.
 
-🔗 [Live Demo]([https://rik-singha-userlogin.rf.gd])  
+🔗 [Live Demo]([https://riksingha001.github.io/My-Mini-Projects/])  
 📁 [GitHub Repo](https://github.com/RikSingha001/My-Mini-Projects.git)
 
 

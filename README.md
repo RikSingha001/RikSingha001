@@ -54,10 +54,13 @@ User authentication system using raw PHP and MySQL
 📁 [GitHub Repo](https://github.com/RikSingha001/user_login)
 
 ---
-### 🎮 Snake-Game 
-When I wasn't in the mood to do anything, I created this game.
-🔗 [Live Demo](https://riksingha001.github.io/snake-game/)  
-📁 [GitHub Repo](https://github.com/RikSingha001/snake-game.git)
+###🎮 My Mini Projects
+A collection of small yet creative projects I built during my free time—just to experiment, learn, and have fun with code.
+These mini-games and interactive ideas reflect my curiosity and love for development.
+
+🔗 Live Demo
+📁 GitHub Repo
+
 
 
 ---
